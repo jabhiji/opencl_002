@@ -1,0 +1,5 @@
+This code implements vector addition using OpenCL. The kernel executes on 
+
+1. Intel CPU
+2. Intel GPU
+3. NVIDIA GPU
